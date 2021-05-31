@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DoctorA
+comment1.params=
+comment1.target=DoctorA()
+comment2.params=gp
+comment2.target=void\ visit(GrandParent)
+comment3.params=p
+comment3.target=void\ visit(Parent)
+numComments=4

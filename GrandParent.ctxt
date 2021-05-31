@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GrandParent
+comment1.params=
+comment1.target=GrandParent()
+comment2.params=
+comment2.target=int\ readTemperature()
+comment3.params=
+comment3.target=void\ takeMedicine()
+numComments=4
